@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aula04</string>
+    <string name="nota1">Nota1</string>
+    <string name="nota2">Nota2</string>
+    <string name="nota3">Nota3</string>
+    <string name="calcularNota">CalcularNota</string>
+    <string name="calcular_nota">CalculaNota</string>
+    <string name="media">Media</string>
+    <string name="situacao">Situacao</string>
+    <string name="digitar_nota2">Digitar_Nota2</string>
+    <string name="digitar_nota1">Digitar_nota1</string>
+    <string name="digitar_nota3">Digitar_Nota3</string>
+    <string name="resul_media">Resul_Media</string>
+    <string name="resul_situacao">Resul_Situacao</string>
+    <string name="calc_nota">Calc_nota</string>
+</resources>
